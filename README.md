@@ -1,2 +1,2 @@
 # Tuberculosis-Detection
-Practicing Deep Learning using Fastai library.
+Practicing Deep Learning using FastAI library.
